@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="TextoAsteroides">
+        <item name="android:textColor">#c51b1b1a</item>
+
+    </style>
+    <style name="TextoAsteroides.boton">
+
+        <item name="android:textColor">#e0f7f7f9</item>
+        <item name="android:paddingLeft">30dp</item>
+        <item name="android:paddingRight">30dp</item>
+        <item name="android:background">#00336633</item>
+    </style>
+    <style name="FondoAsteroides">
+        <item name="android:background">#ba49335b</item>
+    </style>
+
+    <style name="TemaAsteroides" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Asteroides</string>
+    <string name="Jugar">Jugar</string>
+    <string name="Configurar">Configurar</string>
+    <string name="Acerca_de">Acerca de</string>
+    <string name="Salir">Salir</string>
+    <string name="comentAcercaDe">Esta aplicación fue desarrollada por el Ing. Moisés Solís para demostrar el funcionamiento de los intents</string>
+</resources>
